@@ -8,3 +8,4 @@ The purpose of this project is to determine if precalculating Edge Detection spe
 - CIFAR10_distillation_edge_detect.ipynb  Precalculates Edge Detection.  The results of this code are compared against the baseline.
 - MNIST_distillation.ipynb  The plain vanilla MNIST distillation logic.  The MNIST baseline.
 - MNIST_distillation_edge_detect.ipynb  The plain vanilla MNIST distillation logic.  The MNIST baseline.
+- MNIST_finalproject.ipynb  Used for initial dry runs of MNIST processing.
